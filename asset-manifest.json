@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cheat_sheet_React_Hooks/static/css/main.7acaea2f.css",
+    "main.js": "/cheat_sheet_React_Hooks/static/js/main.07d3183d.js",
+    "index.html": "/cheat_sheet_React_Hooks/index.html",
+    "main.7acaea2f.css.map": "/cheat_sheet_React_Hooks/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/cheat_sheet_React_Hooks/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
